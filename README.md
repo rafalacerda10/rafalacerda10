@@ -6,7 +6,7 @@
 ![Rafael Lacerda GitHub stats](https://github-readme-stats.vercel.app/api?username=rafalacerda10&show_icons=true&theme=dark)
 
 <hr>
-### <h2> Meus <strike>problemas</strike> <b>amores❤️ </b> </h2>
+ <h2> Meus <strike>problemas</strike> <b>amores❤️ </b> </h2>
 
 <div style="display: inline_block"> <br>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" width="200px"/>
@@ -19,3 +19,6 @@
 
  <br>
 <hr>
+<em>rafael_fermino_10@hotmail.com</em> <br>
+<em>(11)99573-8799</em>
+
